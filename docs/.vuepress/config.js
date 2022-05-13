@@ -9,6 +9,7 @@ module.exports = {
     theme: defaultTheme({
         logo: null,
         logoDark: null,
+        contributors: false,
         navbar: [
             {
                 text: '主页',
