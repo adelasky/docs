@@ -15,6 +15,10 @@ module.exports = {
                 text: '主页',
                 link: '/',
             },
+            {
+                text: 'Github',
+                link: 'https://github.com/adelasky/docs',
+            },
         ],
     }),
 }
