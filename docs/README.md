@@ -1,7 +1,6 @@
 ---
 title: "首页"
 home: true
-date: "2022-05-15"
 heroImage: /icon/home.png
 heroImageDark: /icon/home.png
 heroText: 笔记本
@@ -14,10 +13,10 @@ actions:
     link: https://github.com/adelasky/docs
     type: secondary
 features:
-  - title: 常用站点
-    details: 作为一个导航目录，记录一些不同功能的常用站点。
-  - title: 学习笔记
-    details: 学习代码的笔记本，记录一些常用代码和学习中遇到的坑。
+  - title: 考研笔记
+    details: 王道 408 考研系列的个人学习笔记。
+  - title: 代码笔记
+    details: 自学编程的笔记，主要记录一些编程语言的常用代码。
 footer: <a href="http://beian.miit.gov.cn/" target="_blank">闽ICP备2021019269号</a>
 footerHtml: true
 ---
