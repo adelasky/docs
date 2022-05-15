@@ -13,7 +13,7 @@ module.exports = {
         navbar: [
             {
                 text: '主页',
-                link: '/',
+                link: '/home/',
             },
             {
                 text: 'Github',
