@@ -16,6 +16,10 @@ module.exports = {
                 link: '/home/',
             },
             {
+                text: '代码',
+                link: '/code/',
+            },
+            {
                 text: 'Github',
                 link: 'https://github.com/adelasky/docs',
             },
