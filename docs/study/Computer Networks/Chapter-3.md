@@ -98,6 +98,22 @@
 
 ![](https://i0.hdslb.com/bfs/album/7e538d907a4205d549449fa2db4475bdd0e08c00.png)
 
+3.海明码：
+
+编码集海明码码距：编码系统中任意两个合法编码的海明码码距最小值（异或运算）。
+
+![](https://i0.hdslb.com/bfs/album/38f9142f7a0b1f275da38b1f3bf62b9fae358cb9.png)
+
+校验码求法：
+
+![](https://i0.hdslb.com/bfs/album/5399acc4cd23db4ba88624b8e169fd6e5fac1e89.png)
+
+校验方法：
+
+![](https://i0.hdslb.com/bfs/album/1da724d81b3be99561c5dd66bf9ca49690051c9a.png)
+
+![](https://i0.hdslb.com/bfs/album/6344e140fd7dc7bc23523504c2de6524c6b88c2d.png)
+
 ### 滑动窗口机制
 
 
